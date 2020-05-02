@@ -70,6 +70,7 @@ Here are the course summary as its given on the course [link](https://www.course
 ### What is a (Neural Network) NN?
 
 - Single neuron == linear regression without applying activation(perceptron)
+-Perceptron is a single layer neural network,a linear classifier (binary).  Perceptron is an algorithm for supervised learning of binary classifiers.
 - Basically a single neuron will calculate weighted sum of input(W.T*X) and then we can set a threshold to predict output in a perceptron. If weighted sum of input cross the threshold, perceptron fires and if not then perceptron doesn't predict.
 - Perceptron can take real values input or boolean values.
 - Actually, when w⋅x+b=0 the perceptron outputs 0.
